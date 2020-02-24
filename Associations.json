@@ -1,0 +1,524 @@
+{
+    "Academic": {
+        "Academic": "5444c6be37fb40a18d6664e8a84387c4"
+    },
+    "Admissions": {
+        "Admissions": "9b043904795143f3a3b8eb41d263f838",
+        "Graduate": "1d08edab0b314eff82878245bc0849af",
+        "Undergraduate": "43a6bc289aaa4d5aa7204a60176d0354"
+    },
+    "Alumni and Development": {
+        "Alumni and Development": "591a8dbe3ea84aeebd1c564f6b0bb94f"
+    },
+    "Athletics": {
+        "Athletics": "c04e2149eb1341f39885def9ef626617",
+        "Baseball": "0ac7bfeb177746c89c9f7fc654fa77b7",
+        "Football": "0ba9dfef4a2442bab7ec29f2ae21db7b",
+        "M Basketball": "5a90f0c8f29a43cdb9617db6236f0248",
+        "M Cross Country": "d2390bb2e78749308a60735e0d706173",
+        "M Golf": "ac5819f28d5544ffa104b6aeb3bccd48",
+        "M Rowing": "14d6a623b80145c4824112314ce7224b",
+        "M Soccer": "09df2861e5164750b951edc828c64d83",
+        "M Tennis": "3cb8985f5ff641259100084a516b6436",
+        "Softball": "0bedbfe0b58d489aa34b5b2a94ab3a87",
+        "W Basketball": "3c353e8b8219415a85a02637171bcae0",
+        "W Beach Volleyball": "ad46959eb05e41cd8940da859325db60",
+        "W Cross Country": "6534cdadd77245a1b41c44862ce8c4ea",
+        "W Golf": "1354f41674be46308c85f1b8b1864654",
+        "W Lacrosse": "24516a2f00b14f61a2e894c60836a6be",
+        "W Rowing": "5c2ea8e7445e4f25a7ed0808d4972344",
+        "W Soccer": "cb9e043ab5bb4ca8acf68e61e569e002",
+        "W Tennis": "cbd23693b0ec40878f9fbc5a5bcd9887",
+        "W Volleyball": "c69d86c2b19842069d58e27e3b3197c9"
+    },
+    "Career and Professional Development": {
+        "Career and Professional Development": "dc8af4409c76433e82376d2803036019"
+    },
+    "Center and Institutes": {
+        "Center and Institutes": "a596f60218e1400f9802491e1e4f714d"
+    },
+    "Classes": {
+        "Classes": "4a08590d44784e68b7726c768c9ac7e5"
+    },
+    "College of Arts and Sciences": {
+        "College of Arts and Sciences": "8283040f857c41909212fe72cddf42bf",
+        "Creative Arts": "a7ae028534884d08aa366168f9443ae3",
+        "Theatre Arts Production": "007249ca27f245388e97efaf9a639996"
+    },
+    "Conferences and Workshops": {
+        "Conferences and Workshops": "9c605a34a2d4431db030977879127523"
+    },
+    "Continuing Education": {
+        "Continuing Education": "12935b977c364bbd85d515faabec55cd"
+    },
+    "Cultural Credits": {
+        "Cultural Credits": "5c32b3a80a8349a2a972e96a783f37eb"
+    },
+    "Diversity and Inclusion": {
+        "Diversity and Inclusion": "63afa1ad156642f9bb4a24e64d730c6b"
+    },
+    "Environmentalism": {
+        "Environmentalism": "fbf1d5f0657344fcbb1c364cc38780f4"
+    },
+    "Gillespie Museum": {
+        "Gillespie Museum": "bef60e7085e54ac1a5058af9695667b8",
+        "Museum": "dec3738775bc4ceeb6445cb7dd971bc2"
+    },
+    "Hand Art Center": {
+        "Hand Art Center": "210c92dd39864bec9451a4011d731bb3",
+        "Bluemner Gallery": "fe1fbcc6ee374294b57f4bd7943adbe0",
+        "Libby Gallery": "04957fbc1b8947e388e0908f096481e8",
+        "Patio Gallery": "f810c50a16d34756a0fac6fbf6bdbb1d",
+        "Room 102": "3c489fb18f64495a8c7381cf865bac13"
+    },
+    "Health and Wellness": {
+        "Health and Wellness": "cbfd085fba1c462489a5d7267bd13d1c"
+    },
+    "International": {
+        "International": "dfd85341f9da48e799eece655fb90f13"
+    },
+    "Lectures": {
+        "Lectures": "59d99e2920e2449b9e34ff9242ced5ef"
+    },
+    "Library": {
+        "Library": "3a3a68c834cb42ad90ae5a3a1a666f34"
+    },
+    "Many Voices, One Stetson": {
+        "Many Voices, One Stetson": "fc1a80d10ff64dc6a1af8ceab40ccb36"
+    },
+    "Meetings": {
+        "Meetings": "59699053359d4e3789af6b086857746d"
+    },
+    "Professional and Corporate Education": {
+        "Professional and Corporate Education": "65e38205aa154260a42edf1ec2e5cea4"
+    },
+    "Religious Holidays": {
+        "Religious Holidays": "52a15e0494e442c38aa5c46386f34f7a"
+    },
+    "Residential Life": {
+        "Residential Life": "f9464783cb3f4791a2bb7ed1886ea978"
+    },
+    "School of Business Administration": {
+        "School of Business Administration": "47538c9f64964a47a1e5c402888d956b"
+    },
+    "School of Music": {
+        "School of Music": "f11223b0b45e4f1e9f25aa6bae3b0e75",
+        "Concerts": "499b2ccd428a412ea8c8b6d5d80d5937"
+    },
+    "Student Financial Planning": {
+        "Student Financial Planning": "a174a6e8b65c4bd5a4e738e9786fb36d"
+    },
+    "Student Life": {
+        "Student Life": "2c3aae6d77fd402a95a77e45e3486ad5"
+    },
+    "Student Organizations": {
+        "Student Organizations": "b5eb98f457994f59907869ce93307be7"
+    },
+    "University": {
+        "University": "05338ce1896d4d8fb6508c4a8482bc00",
+        "Holidays": "b27ca9c03c0f4d5ca58d33b51b8a7eb1",
+        "Human Resources": "ed3e88e49ac44ba38ddf4deb981d6378"
+    },
+    "Allen Hall": {
+        "Allen Hall": "00fd79c837ef4b7b82337baf4f77efc5",
+        "Room 101": "a8f28dae1c474277bb667da9fd37689e",
+        "Room 103": "c8edbc37609f4164b3721b9a7a658718",
+        "Room 201": "257559024369440fa3982ab43d3eef82"
+    },
+    "Amelia Field": {
+        "Amelia Field": "08690af6df5146aaaceabf95d09ea3eb"
+    },
+    "Athletic Training Center": {
+        "Athletic Training Center": "7557034426ab4e898f6d101309352cef",
+        "Boardroom": "982f69d998844b7ab5d2c9e7b619e852",
+        "Brown Suite": "555ee2b472b64a9f872bf89097056e27",
+        "Football Lower Practice Field": "987c609ea520447fa37cf42bcc2d7e15",
+        "Football Upper Practice Field": "11f5f1e5b986455ab89a937ef86cf2ca",
+        "Soccer Lacrosse Game Field": "010131380a1541ac97c906f7138e1541",
+        "Soccer Lacrosse Practice Field": "d90e3283092b4d6cb7e4f4e079f370b6",
+        "Sullivan Room": "63cc20326acd471c82f2f0cdf6ca7ae6"
+    },
+    "Carlton Union Building": {
+        "Carlton Union Building": "ea444acdb19c4169b2501e9a7bd03b2c",
+        "Commons": "3bbc83fa308d4335a9111ebf9a0b60bb",
+        "East Lawn (Templeton Fountain)": "792c7e183ac74e44812b4b85c9c81028",
+        "George's Place": "16f7ed9c34e646d8afb62901a08338dd",
+        "North Upper Lobby": "6bb788fff6214b61b877cab5b12843b3",
+        "Room 105 (Faculty and Staff Lounge)": "ee9e0dc328d1469a8752e168fad3af94",
+        "Room 202A": "14c9c5a5e05048748eaadf198f095f00",
+        "Room 230 (Stetson Room)": "7ec4094d32c142539b5f9319562f86bc",
+        "Room 256 (SquidFloating Conference Room)": "c1d5c2f89dcc4e6e9b7715dc73cec0ae",
+        "Room 258 (SGA Conference Room)": "da89a2a7c1c04cc8b9849a37de7573aa",
+        "Room 261A (Lee's Garage)": "3fbfeb7610994747ba5d5a4802abc079",
+        "Room 261B (Lee's Garage)": "62b5c065943b4eb2bb1bfce5da6b6f26",
+        "Room 278": "90dddd6de98e45849402cfe865b41254",
+        "Room 279": "2c0e8f88d0184b768e490f4334a1062d",
+        "Room 283": "e5a45f8d49064e878dd6cd4eec183d00",
+        "Room 284": "6622710087fc4cfb90f1b434decea228",
+        "Steps Tabling 1": "3a9bac9d045f4a6f8c9e98bdeceb8478",
+        "Steps Tabling 2": "db3a8030ad8b4735accccbe049ea8568",
+        "Steps Tabling 3": "d12884b4858f4d19b236671f20cdbe97",
+        "Steps Tabling 4": "f13af3f8a5134fd88c08c62925c2acf3",
+        "Steps Tabling 5": "86d380097e394c60957ad397bea84d24"
+    },
+    "Carson-Hollis Gazebo": {
+        "Carson-Hollis Gazebo": "f28aa372cfa649b8be1f13f8d304051a"
+    },
+    "Center for Russian, East European and Eurasian Studies": {
+        "Center for Russian, East European and Eurasian Studies": "d5b09abae3b649adade13082b9c9425d",
+        "Room 104": "d3f6aedf210b485fa41135b5063f0b14"
+    },
+    "Chaudoin Hall": {
+        "Chaudoin Hall": "7ae3f2d0cce44e1cbecb3f3a7058f7f4",
+        "Main Lounge": "9f5ab6c63c52484e81baebd7982f2da3",
+        "Seminar Room": "50b9f7fe4f2a4bdb9c7736ae8a61a0e3"
+    },
+    "Conrad Hall": {
+        "Conrad Hall": "5d02c1b5c4ef4d998722101620a34e3c",
+        "First Floor Lounge": "bc064cf2e9384f72845bc29f7bbe2e7c"
+    },
+    "Cooper Beach Volleyball Complex": {
+        "Cooper Beach Volleyball Complex": "5164ed8ecff44c80b1107e058b8b957d"
+    },
+    "Cross Cultural Center": {
+        "Cross Cultural Center": "3f720fd9b64c43768195d454fa081460",
+        "Conference Room": "08bb2ef77251493fba447eb0d44cf0ff"
+    },
+    "Davis Hall": {
+        "Davis Hall": "ca1604dbedbb4c9fba8a0bc331939cdc",
+        "Room 101": "a269442a816b42978ec79ccf04f0533f",
+        "Room 102": "c63a65ec55444f26b74504f181abd5c1",
+        "Room 106": "7f0f92371866463faf23cfb7cc1f518c",
+        "Room 204": "ad5ee0619754457c991ddccb0269da41",
+        "Room 205": "2bb6346cc3214d06a4cbc7b9fe59736f",
+        "Room 206": "65878b3c6a734fb89796c0cfc58052ab",
+        "Room 207": "ad1eb9641a6e475989f94c8bb8f403a5",
+        "Room 208": "720c5cb2178749ac8fef00640fa86394",
+        "Room 209": "3c4f10b89d394504b822d9933c84db0d"
+    },
+    "DeLand Hall": {
+        "DeLand Hall": "57cae42343054d6895eaa82240ede6dd",
+        "Room 115 (Boardroom)": "f842efc329e64c3d9f1fc28dae46d449",
+        "Room 200A": "2a40b18bebb94852bbbf6d7285404fbc"
+    },
+    "duPont-Ball Library": {
+        "duPont-Ball Library": "2bffbae9bb7f4aafbaa809e7ded38411",
+        "Main Floor": "5856a163638a4fb4a715340985337d1e",
+        "Nemec Courtyard": "cb1324d535104957a34fa45587e40e3d",
+        "Room 15": "5b2d2d35b58140e0b1fa8a2ec0b58370",
+        "Room 208": "1c4ea70d5c1a421faf3d9da6ac89578c",
+        "Room 209": "790718a12a0d4e818d969ba47101be6c",
+        "Room 210": "322bd053f1984e68ad56a95380a82f69",
+        "Room 213": "d67510d2d1b34e9b9a03e8d88a111738",
+        "Room 25L": "64c421fc7506434684165e243b39b3b5",
+        "Room 26L": "45bce4b29ee842a493629304bb2d8963"
+    },
+    "Edmunds Center": {
+        "Edmunds Center": "65d2846765124ec59347e1aeedb2fa2e",
+        "Gym": "cc920272a6ea4c51be6180ef07974b6d",
+        "HOF Room": "24efe8429fa941b0aa55842e177208fe",
+        "Practice Court": "98870194f29d485291c0b2af6c125f11"
+    },
+    "Elizabeth Hall": {
+        "Elizabeth Hall": "d772281425f74d98a153879026b9ffe3",
+        "Room 100 (Lee Chapel)": "953415dbf4414fbbbfc77ef5305415ee",
+        "Room 103": "574ebacae9a54c638e7c220346ef7392",
+        "Room 202": "dd0990fa3be6432780f37d16d01d482b",
+        "Room 204": "0f1bc9602afb429bafe4e18f95b2c2f3",
+        "Room 205": "36fbe23cdaba4c39b0acce50be9578ae",
+        "Room 206 (Lawson)": "4494c139f0b84e0e86dfc447d6aaff24",
+        "Room 209": "2ca5fa3a13454e0ca8b30067e8860ddf",
+        "Room 210": "7befb49073834c7fb4a7686bd5a53bb6",
+        "Room 308": "0b45c4356651496ea4b12c6a472eaf78",
+        "Room 309": "4d408ff1cd3c41a0a1e6efed2e374b29",
+        "Room 311": "f08de41f227a44f380b7508b55903aed",
+        "Room 313": "8e5b60c6f9e8427cb4e225e209eba6f5",
+        "Room 314": "b37d9e198f534085ac0b5667ffe7ea2a",
+        "Room 315 (John E Johns)": "8fb34eae4c13422487b26cb4cde6ed6c",
+        "Room 316": "153c9f951dc34ced879d7c4978af42ea",
+        "Room 319": "511fce6d36214195ae02a750d1307194",
+        "Room 322": "e968f92a960d49b7ab8872c55b62d832"
+    },
+    "Emily Hall": {
+        "Emily Hall": "38b4b73dc9a042e3aefba87ee1dd62f4",
+        "First Floor Lounge": "cf78881009644651ad333566c5a20ebc",
+        "Second Main Lounge": "ba187e676a394b1ca58126d9e85b9bfc"
+    },
+    "Flagler Hall": {
+        "Flagler Hall": "ca201f9cc9e84a5ab98d56c62cdcf57e",
+        "Room 104A": "a2dc1db571d2488a88cf70a7fe235dae",
+        "Room 104C": "0b8eec3b6c8042e1b5893f450165f2d5",
+        "Room 105A": "a9d9abc497ef4eba84b98075d5a34d6c",
+        "Room 105B": "5343405939e345aaa7e905d968165592",
+        "Room 107": "2f76a564ded6496998d6a953a4755ad7",
+        "Room 112A": "21c06dda224e48e8b77603435e782518",
+        "Room 112B": "410a9cc44c444ca79479dded4a573593",
+        "Room 201": "5b75c754b4cd4fe2b0c0095752bcae42",
+        "Room 205": "8383cecb603344829c33c5e436ce206f",
+        "Room 211": "693b462c7ac54076bc165d09addabf81",
+        "Room 213": "b35dc57f108b43b58f4ae9abb1e19db5",
+        "Room 238": "f20b256c55f84cf98137a70264b1d68d",
+        "Room 311": "313a108bf9304035b44be140331e5c7a",
+        "Room 313": "b2e7dade77f2473e9669518bf22a3575",
+        "Room 317": "c70897ef5e164433becfe5562db4e4b9",
+        "Room 334": "6e639d136a23417cb41f63734923931c"
+    },
+    "Florence Field": {
+        "Florence Field": "061b4420c5e94c3fb265d8bf78cc1e71"
+    },
+    "Forest of Arden": {
+        "Forest of Arden": "5d3473d44d7e434eba8fc0420fe34212"
+    },
+    "Fraternity Circle": {
+        "Fraternity Circle": "9b78a8857cf34e6eba4e8c8a0fadd7cb",
+        "Fraternity Circle Grill": "8ceea330f96744b88bfd8c56e5276858"
+    },
+    "Gordis Hall": {
+        "Gordis Hall": "1a6fab9c5df843e19855ee0acb5f9b6e",
+        "Gordis Grill": "eb076bf481b047cda447047fe6f4da64"
+    },
+    "Hollis Center": {
+        "Hollis Center": "01d8f5e6616e42ecab268fdcf28137e3",
+        "Room 108 (Lounge)": "f15ca9ba63d048a093e3d26f762b5bc9",
+        "Room 119 (Aerobic Studio 1)": "3bac823f8ef34abf8031d11ced64bea0",
+        "Room 123 (Classroom)": "2c5c74e70f3b4d3e88bf4f1134d2e341",
+        "Room 124 (Aerobic Studio 2)": "722d674e0f3244bb9c9bc45c46838ff6",
+        "Room 140-1 (Fieldhouse, North Court)": "263c2b8b1a7c433da94dff1c6022fe9e",
+        "Room 140-2 (Fieldhouse, South Court)": "4cbc1af8f6e74a8489220d290bf8abab",
+        "Room 2 (Pool)": "20b18185570d447d8e3286a0aef15c30",
+        "Room 2D (Pool Deck)": "337da1ad957c4fc6ad5521dc10e3bc82"
+    },
+    "Hulley Tower": {
+        "Hulley Tower": "d38582eff36d4b2fb7ffe7eed710579e"
+    },
+    "Lynn Business Center": {
+        "Lynn Business Center": "a74184964efb4e8bba7620957b498498",
+        "Room 100A (Main Lobby)": "ebbea5f1d4a94cbb9c673b258b18873a",
+        "Room 100B (Elevators Lobby)": "7daaf106d1934dc89c1265bcfc69449b",
+        "Room 100C (Breezeway)": "755782c413314c5eaf3e1756809cc71a",
+        "Room 108 (Rinker Auditorium)": "a053bdefdc4141f6a51a016d710c8620",
+        "Room 111A": "f80dbbcf39c546d9987cb849277333fd",
+        "Room 111B": "e1d553545c904b7b90933d566d6e2046",
+        "Room 111C": "a99f619254b948bbabad8902e14123d1",
+        "Room 111D": "75c7048da17947f9b2275c09ebb03ee3",
+        "Room 111E": "1fe09f8ed2fd43ccb98adb1698fa0317",
+        "Room 111F": "1ed7d57778bc404e82ca4d7381a04b8c",
+        "Room 119": "7a2e6cc5d9824e148fbafa5e8c77d22a",
+        "Room 122": "adeb276c0ef547f298e2e751c451246a",
+        "Room 123": "baa1077f48294072be0540351677714a",
+        "Room 124": "c714b066a81947e7906175823329dab3",
+        "Room 126": "fa7ab32453364caab8d99c6dff31c556",
+        "Room 135": "f0c2fbceee57478480ac7c25fb19f6aa",
+        "Room 136": "8519665f9a5f450ba2f91cbcbfa4bf07",
+        "Room 14": "ce16817149584b75b185125fc1314ced",
+        "Room 213 (Boardroom)": "93e60928e6244f6689a24585c4ebf883",
+        "Room 220": "dd0f17f64d114f919b9bf5fe25cbb49c",
+        "Room 221": "45a59b5e9ce9457fa70aab39998e05d5",
+        "Room 222": "cd375e7de4f6424291b62cc30d66dba7",
+        "Room 223": "a90ce0ca16f34b4a9d9fc5c9ac344662",
+        "Room 224": "f3228ac9414a400f9ed65095f854c9f7",
+        "Room 225": "cb12538a676248e4befa695ee4e5b63e",
+        "Room 317": "61ff72f1a61a446d996d135cc91a3c05",
+        "Room 318": "8522b158f0244d899f6645bb63ac4d8d",
+        "Room 319": "0d068beb3e7d403c88c21e7efc3a8f1b",
+        "Room 322": "6690fd42d1cf4461a5591c2c97c67afc",
+        "Room 424": "f993795e5aee46ba814294b9c97f9180",
+        "Room 429": "8eab6a4712084ff08ab595074b7a3d98",
+        "Room 44": "080dcfc166c54552964d765e5d9e33fd",
+        "Room 45": "c6f8a4f6372740a48cc41889dd717e83"
+    },
+    "Mandy Stoll Tennis Courts": {
+        "Mandy Stoll Tennis Courts": "62cfb590d3d74b65aca660cfe8e469c9"
+    },
+    "McMahan Hall": {
+        "McMahan Hall": "e4461bd2ac6d4ecf980fa0269cb4db54",
+        "Room 104": "28329089c7db404a97b10ce3a9020338",
+        "Room 111 (Feasel)": "2deb31ca6be341fcb51550465473bd01"
+    },
+    "Meadows Alumni House": {
+        "Meadows Alumni House": "c94d9018c4f04b46a0cd669c29589e37",
+        "Room 102 (Conference Room)": "dc366c9471b04007b9fa87775f83b364"
+    },
+    "Melching Field at Conrad Park": {
+        "Melching Field at Conrad Park": "0249898af1314bbc8e0523391e50ae3e"
+    },
+    "Nemec Hall": {
+        "Nemec Hall": "edcd9ec1a4bf4b8b8b3dc4c412809c0b",
+        "Community Center": "20c5b67e20fd4882bb5eb74c6fd58d1b",
+        "Seminar Room": "1eef737b3a4e495285951c94ccdbfcfd"
+    },
+    "Off Campus": {
+        "Off Campus": "f4d15d533e0042658d793c46167bca84",
+        "Hatter Sports Lounge": "53e0702dc11141f5b2d3181765d53a2c"
+    },
+    "Ohio Art Studio": {
+        "Ohio Art Studio": "1432a30458f04c35a06af11d246912a7"
+    },
+    "Palm Court": {
+        "Palm Court": "cc0c75ac786142b8bd007839d521ee2b",
+        "Banner (East)": "2c934b8797ae4ab684fe5b103851ef94",
+        "Banner (North)": "6b268cf158e747ae8bb2dd36d014d621",
+        "Banner (South)": "95b3073d95e14e3497931a4eeb1fb863",
+        "Courtyard": "3e3e0852b8d249afb625d564afa63391"
+    },
+    "Patricia Wilson Softball Field": {
+        "Patricia Wilson Softball Field": "a24e95e1f19d4ef795bc92584077ae8a"
+    },
+    "President's Garden": {
+        "President's Garden": "87d82e58f82e4a2fbf323b8b93e7e21b",
+        "Garden": "b035c5727edf49feb1417e2dbe31bd93"
+    },
+    "Presser Hall": {
+        "Presser Hall": "b53c6a89694343e9bfd80348fa33110e",
+        "Courtyard": "e5c1948ca8954b38b85f1bd778c03293",
+        "Room 109": "99c8dd69518e4b578da61e36e0f761cf",
+        "Room 112": "2b69e717fd334d288948f4b566c5a53f",
+        "Room 113": "e4b246e6092e4d4cae1fa9aada1f0ec8",
+        "Room 132 (Tinsley)": "a5f8ba4b7b2e468e915aefb137bc0576",
+        "Room 200": "c0282180f5c8420380b8dde5facd39eb",
+        "Room 201": "75bc736216fe484db3c65abfd2153482",
+        "Room 202A": "b0ee3cc7468a4624aceb6aef6bb531ac",
+        "Room 202C": "acee19a8c671493aaa1e6b5fce656c32",
+        "Room 202D": "7a8fab1eade5415c987159f34cfc7539",
+        "Room 210": "bf15d4b24c774a4bb63be5a6d7e6387c",
+        "Room 213": "f53438a086984e35b6f63f67dccdc668",
+        "Room 300": "5721bab6094a4e328f274bde8735f0a2",
+        "Room 301": "4dd5444cdf3a4c8fbc601182ee430f12",
+        "Room 302": "5cc9b97da63e497386f01cc87063774f",
+        "Room 303": "e7bac30d148a4b278d0d56148bc139d1",
+        "Room 304": "b3a1b909baca49e69d66298d59e08e25",
+        "Room 305": "3f88755a67ed44fcafb711c8e827d044",
+        "Room 306": "98188671baf5455a9f7c7186bf04a6d3",
+        "Room 310": "9e08b9d7063c4e45a12c18d77b502719",
+        "Room 312": "f0421341f3fe436bb7018f921d24f5e2",
+        "Room 313 (Percussion Practice Room)": "9a4e87bfdadd431da0427f7318f0d796",
+        "Room 314": "22e93927b0d340faaf0e1073db62a2d5",
+        "Room 315": "5f50fb7c4f7a44efb8dfcbd65d8f06e3",
+        "Room 316": "10aeb31051944901b4eb1a7f4d2066f1",
+        "Room 317": "f0bd018d8cdb45c58c7537835fc3ff1b",
+        "Room 318": "36ac02c26e984a31abd8328ed9616dea",
+        "Room 320": "c040242bd97e4bcfa47050da49b3deb6",
+        "Room 321": "5595dee414e64ef3ad06777d87cccf44",
+        "Room 322": "a3bb6188fa234dcea9e5eca0c4ce3c47",
+        "Room 323": "c69d51e7e5724757b7f4104099b829a0",
+        "Room 324": "b0d6b11b08b44d6c88e017867e67fb2c",
+        "Room 325": "8498f550519d4a6db2094ca4ce854621",
+        "Room 326": "b66864898d114e7f9888c0537adfb4e1",
+        "Room 327": "a16a3a6f67374ee885c653d94713f8f6",
+        "Room 328": "57c48986d06e4dee9bd01a4cf5f4e996",
+        "Room 330": "3e05c9803898476b894e608e5c3461c2",
+        "Room 331": "1be18931ae794c6e986500a51fd62bcb",
+        "Room 334": "fabd5bbcefb948adbd011c24f9de0125",
+        "Room 335": "e03bf7642bdd4f15857f21f9209b2717",
+        "Room 336": "779253f89cb5434890c446b204645d59",
+        "Room 337": "f1e9a44085b348069c403f7aa726b730",
+        "Room 338": "acdb432f39f34a238791d04ff746e1d8",
+        "Room 339": "e6ad135341ee412ba38e63814e8f90e3",
+        "Room 341": "18c3e5af97cb41818974827f452c587d",
+        "Room 342": "84cd454dcb5e4957a12ad8c52fb0a841",
+        "Room 343": "293dd53dce8143059d2f9049e5211b9f",
+        "Room 346": "45f09c82700843fba39c7a21f15647ff",
+        "Room 347": "cf537990007e49479caf7d259bb35262",
+        "Room 349": "9b532648578c41329bec9e5f3b3013d1",
+        "Room 352": "1b00b10883de402a985187323d68368a",
+        "Room 354": "3ed2c5e0a51147a0b8a049cfe56bafa5"
+    },
+    "Rinker Clubhouse": {
+        "Rinker Clubhouse": "a6a068cfdc9a41e9bc110d36a4d50554",
+        "Lounge": "655ea93e258b45b78e36c97e0bbf42bd",
+        "Quite Lounge": "ef816be35d494e289a4b40934b24dd19",
+        "Seminar Room": "4a853ac5284c44d08d6c07ce952b5b4e"
+    },
+    "Rinker Environmental Learning Center": {
+        "Rinker Environmental Learning Center": "1a0f4ebab3e94a67941485ad6b6dfe2f",
+        "Room 1": "8d805e14923142c89720cba07066495b"
+    },
+    "Rinker Intramural Field": {
+        "Rinker Intramural Field": "52b312f8ad3b4682aeafa9d403fb05b2",
+        "North Field": "118eca8f386344c69f88eb7c219578b5",
+        "South Field": "70b77259b3124528a391dfe380f1cb65"
+    },
+    "Rinker Welcome Center": {
+        "Rinker Welcome Center": "bd2244e193c1421191c96f1dff8787bd",
+        "Lynn Presentation Room": "986369a66364417ead1a4413f4058568",
+        "McGraw Atrium and Patio": "032b517de1934c68b80e884f20708131",
+        "Room 303": "dbc0c941f40b4e40bfae78d3da7fdd7f",
+        "Room 306 (Gary Libby)": "c2cb3ba09cf24e138d246d1f57e27b56"
+    },
+    "Sage Science Center": {
+        "Sage Science Center": "73487015b3f8469eb6956a64dd4d7e0c",
+        "Room 105": "f9a2fe08d8124dc6bdf7b23896c3478c",
+        "Room 125": "844aa14517994279a9489d7828810e0e",
+        "Room 129": "b696ac21ed714b6bad4ad615722c2745",
+        "Room 130": "17fdb5bf68924b9cbbfb99e9b8429060",
+        "Room 132": "3de17ddbb5d2430bbbbc13b2edfde693",
+        "Room 142": "105ea1a0a5994553b56f85a32e863cd4",
+        "Room 153": "f1b617bb002948ac993f3e18afd106ad",
+        "Room 159": "b0892f2eb13440aa945541ffeb4a5313",
+        "Room 161": "8a94885f9e4644b198ba0d82500ee3ee",
+        "Room 163": "0be3409f22be4a42825dd48bbf2d5623",
+        "Room 205": "69d8c205842146799c7bdaa62c8040e5",
+        "Room 207": "bd498422571a4c38a39f5180b416571b",
+        "Room 213": "051d3d80c0e142c0be7446baf3560e36",
+        "Room 215": "7e21c4f8a25f445488d39b5f12232425",
+        "Room 217": "d0bb742f382749479f3a6b8ebb03b0f8",
+        "Room 218": "71cc5fb5d80b4cddade2f38d6b40dca1",
+        "Room 222": "879919489c4f4a3794532e4f266e4370",
+        "Room 231": "7c6a64cb600a4b048f8b3830db7b3c85",
+        "Room 232": "3bad38faa2b2487c8530a8ee5b1c8ddb",
+        "Room 234": "212a0f2fde034efe8199c3a39165ccf1",
+        "Room 239": "30aaa28bf26a4c4da6514704b933a870",
+        "Room 242": "3fcced4634264dbf8481e5217e29ca69",
+        "Room 243": "ff03c641005c4375a96b27d6db883db2",
+        "Room 253": "fed2eeaab532487d85832bfca935cd34",
+        "Room 256": "93424d2f2db94e59aef84df2d7248530",
+        "Room 257": "8443255d4f4a495aadb202e2326dddd2",
+        "Room 258": "279842971dd146bba10a01376abe9ac5",
+        "Room 260": "711748054347482a8ddc80bc9ba0e710",
+        "Sage Green Space": "065e8ab26bbe4671a0b3b0c2bd3b3919"
+    },
+    "Sampson Hall": {
+        "Sampson Hall": "e2d2573cfb314623b4b91c861949be0c",
+        "Foyer": "c843ca0260af47c0beeaf6606c519b3f",
+        "Room 105 (Duncan Studios)": "64c5c46b6bfc4c18b85d56b42ded3477",
+        "Room 112": "6c67ac3edf9d445cafeb14101a71459e",
+        "Room 114": "31e1b7632edf49d6a7cd937d59f6e48c",
+        "Room 129": "75463897bc0d4675a47be2936481bd79",
+        "Room 211": "58fc9b3f539a47828918b428da46f9b7",
+        "Room 213": "d3844274ca7849fab27b355b33ee88bf",
+        "Room 223": "8178be9845b941fabc24a545e3089385",
+        "Room 225": "92fe85b35682450bb85ce903835fb3de",
+        "Room 227": "41fa894bc3f944bcbb705d874a99b89d",
+        "Room B01": "698d83a9b75b4f3490bf2ab91a8cab3a"
+    },
+    "Sandra Stetson Aquatic Center": {
+        "Sandra Stetson Aquatic Center": "1841a6497d134bb9a73cb7af2b47ee01",
+        "Conference Room": "85cec3f0cac54fdf823494c7e89b0ef7",
+        "Lakeview Room": "efd1ead8767f4cfe9e4af18a32f8b358",
+        "Pavilion": "3be96ab9e0c0422fa29e4298626e7b91"
+    },
+    "Second Stage Theatre": {
+        "Second Stage Theatre": "71cff21da2844685b69b51dcc6b5c42c"
+    },
+    "Smordis Field": {
+        "Smordis Field": "4d92413ee2e1460898a2fa86d544c1f7"
+    },
+    "Sororities Gazebo": {
+        "Sororities Gazebo": "7eb3ab8a245b44cabeb60b3127735115"
+    },
+    "Spec Martin Stadium": {
+        "Spec Martin Stadium": "e6a8b42b9cf1459c97c5b8edfd503824"
+    },
+    "Stetson Green": {
+        "Stetson Green": "50d7360cb2f642b2ac9c65acafe5ab50",
+        "Stetson Green Space": "2689feae32ac4e638aaf7c9a6680a2ae"
+    },
+    "Veterans Memorial Flagpole": {
+        "Veterans Memorial Flagpole": "e6f4240a64cd49b18f3da2e0f5af9920",
+        "Chaudoin Drive": "f28439551ed84882be8b2b95c35b8523",
+        "Flagpole Area": "8473c0140d1a4c82a298bd13c7fab647"
+    },
+    "Vietnam Memorial": {
+        "Vietnam Memorial": "ff16740073f749eb8cc3ab84f05f163a"
+    }
+}
