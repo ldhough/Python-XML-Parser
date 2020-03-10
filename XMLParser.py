@@ -320,7 +320,20 @@ def parseXML(typeDic):
                                         newEvent.eventTypes.append(extraCategory)
                         if newCategory.eventTypeName != newEvent.mainEventType: #prevents double locations from being written to JSON
                             newEvent.eventTypes.append(newCategory)
-            eventList.append(newEvent)
+            if newEvent.mainLat != "":
+                if float(newEvent.mainLat) < 0.0: #lat should be positive for DeLand, if negative the user input lat/lon backwards
+                    tempLon = newEvent.mainLat
+                    tempLat = newEvent.mainLon
+                    newEvent.mainLat = tempLat
+                    newEvent.mainLon = tempLon
+            substringOne = "Cancelled"
+            substringTwo = "cancelled"
+            substringThree = "Tutoring"
+            substringFour = "tutoring"
+            #if substringOne in newEvent.name == False and substringTwo in newEvent.name == False and substringThree in newEvent.name == False and substringFour in newEvent.name == False:
+            #if substringOne in newEvent.name == False:
+            if newEvent.name.find(substringOne) == -1 and newEvent.name.find(substringTwo) == -1 and newEvent.name.find(substringThree) == -1 and newEvent.name.find(substringFour) == -1:
+                eventList.append(newEvent)
     return eventList
 
 #writes event data to a JSON file to be sent to Firebase & ultimately read by application
